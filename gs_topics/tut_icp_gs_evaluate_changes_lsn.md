@@ -23,11 +23,10 @@ You import the Miniloan Service decision service into Decision Center and explor
 4.  Click **Choose** and browse to the .zip file you downloaded from GitHub.
 5.  Make sure **Use Decision Governance Framework** is not selected. To simplify the tutorial you work in an ungoverned branch of the decision service.
 6.  Click **Import**.The Miniloan Service decision service automatically opens. You see the **Releases** and **Branches** tabs. Because you chose not to use the decision governance framework, you can see that the **Releases** tab is empty.
-7.   Open the **Branches** tab, and then click the **main** branch. A decision service can contain many projects. For simplicity, all the rules of Miniloan Service are contained in its top-level project, which has the same name as the decision service. In the **Decision Artifacts** tab, you can see a folder for the decision operations, the miniloan ruleflow, and folders that contain the rules:
+7.   Open the **Branches** tab, and then click the **main** branch. A decision service can contain many projects. For simplicity, all the rules of Miniloan Service are contained in its top-level project, which has the same name as the decision service.
+8.  Click **All types** in the **Types** window to display all the artifacts. In the **Decision Artifacts** tab, you can see a folder for the decision operations, the miniloan ruleflow, and folders that contain the rules:
 
  ![Image shows the Decision Artifacts tab](../gs_images/scrn_decision_artifacts.jpg)
-
- **Tip:** Some artifacts are not visible by default. Click **All types** in the **Types** window to activate them.
 
 
 ## Step 2: Exploring the ruleflow
